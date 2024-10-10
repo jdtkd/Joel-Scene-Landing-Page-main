@@ -488,9 +488,12 @@ main {
 }
 
 .mini-eigth-image {
+    height:80px;
     width: 80px;
     position: relative;
     bottom: 20px;
+    border-radius: 10%;
+    padding-top:auto;
 }
 
 
